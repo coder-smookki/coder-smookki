@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="260" viewBox="0 0 960 260" role="img" aria-labelledby="title desc">
+<title id="title">Under the hood / Technology stack</title>
+<desc id="desc">Backend, AI agents, mobile development and infrastructure.</desc>
+<rect x=".5" y=".5" width="959" height="259" rx="16" fill="#10141C" stroke="#303440"/>
+<text x="28" y="44" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#C6A1AC">01</text>
+<text x="60" y="44" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.2" fill="#98A1AF">BACKEND</text>
+<text x="234" y="45" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ECE5EA">Python  /  FastAPI  /  Django  /  aiogram</text>
+<path d="M28 71H932" stroke="#282C36"/>
+<text x="28" y="102" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#C6A1AC">02</text>
+<text x="60" y="102" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.2" fill="#98A1AF">AI &amp; AGENTS</text>
+<text x="234" y="103" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ECE5EA">LangGraph  /  RAG  /  Qdrant  /  Ollama</text>
+<path d="M28 129H932" stroke="#282C36"/>
+<text x="28" y="160" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#C6A1AC">03</text>
+<text x="60" y="160" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.2" fill="#98A1AF">MOBILE</text>
+<text x="234" y="161" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ECE5EA">Kotlin  /  Swift  /  Flutter</text>
+<path d="M28 187H932" stroke="#282C36"/>
+<text x="28" y="218" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="#C6A1AC">04</text>
+<text x="60" y="218" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.2" fill="#98A1AF">INFRASTRUCTURE</text>
+<text x="234" y="219" font-family="Arial,Helvetica,sans-serif" font-size="19" fill="#ECE5EA">PostgreSQL  /  MySQL  /  Docker  /  Linux  /  Actions</text>
+</svg>
