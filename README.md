@@ -7,9 +7,9 @@
   &nbsp;
   <a href="cv/CV_EN.md"><img src="assets/cv-en.svg" width="148" height="38" alt="CV in English" /></a>
   &nbsp;
-  <a href="https://t.me/smokkkkiiii">Telegram</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:smookki@yandex.ru">Email</a>
+  <a href="https://t.me/smokkkkiiii"><img src="assets/telegram.svg" width="148" height="38" alt="Написать в Telegram" /></a>
+  &nbsp;
+  <a href="mailto:smookki@yandex.ru"><img src="assets/email.svg" width="148" height="38" alt="Написать на smookki@yandex.ru" /></a>
 </p>
 
 ## Кирилл Ильин
