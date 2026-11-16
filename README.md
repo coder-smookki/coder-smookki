@@ -38,7 +38,7 @@
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>AIst</h3>
+<h3><a href="https://github.com/coder-smookki/GSP-Project-AIst">AIst</a></h3>
 <p>Поиск по корпоративным регламентам на собственных серверах. Team Lead команды, занявшей 1-е место в IT-направлении PRO СТРОЙ 4.0.</p>
 <p><sub>LangGraph · Qdrant · Ollama · RAG</sub></p>
 </td>
@@ -63,10 +63,16 @@
 
 | Проект | Что внутри |
 | :--- | :--- |
+| **[Сквор](https://github.com/coder-smookki/NuclearItHack)** | Расшифровка разговоров на Android без сети: текст, говорящие, временные метки и протокол. 1-е место на Nuclear IT Hack 2026. |
+| **[КСТ Визор](https://github.com/coder-smookki/AIst-CyberHack102)** | AR-помощник обходчика оборудования: распознавание узлов и дефектов в реальном времени, датчики, правила и отчёты. Flutter, FastAPI, ONNX. Кибер 102, 2026. |
+| **[AIst](https://github.com/coder-smookki/GSP-Project-AIst)** | ИИ-поиск по корпоративным регламентам на собственных серверах. 1-е место в IT-направлении PRO СТРОЙ 4.0. |
+| **[Подбор контрагентов](https://github.com/coder-smookki/RLT.hack-404LossNotFound)** | Подбор поставщиков для закупок: гибридный поиск и ранжировщик nnPU35. 6-е место из 19 на RLT.hack 2026. |
+| **[ДомПульс](https://github.com/coder-smookki/VkEducation-and-MessangerMax-Hackathon-2026)** | Mini App и бот в MAX для обращений жильцов: отчёт о работах связан с конкретными пунктами. Хакатон VK Education и MAX 2026. |
+| **[Habit+](https://github.com/coder-smookki/VkEducation-and-MessangerMax-Hackathon)** | Мини-приложение и бот в MAX: персонаж растёт за задачи, цели и «Помодоро». Хакатон VK Education и MAX 2025. |
 | **[PyGame-DOOM-1993](https://github.com/coder-smookki/PyGame-DOOM-1993)** | 2.5D-шутер на Python: ray casting, текстуры, спрайты, коллизии и звук. |
 | **[SMK Dealership](https://github.com/coder-smookki/website-dealership)** | Веб-платформа автосалона: объявления, модерация, заявки и панель управления. |
 | **[SSD / Видеоконференции](https://github.com/coder-smookki/Hackathon-SSD-2024)** | Платформа видеосвязи с входом через Telegram WebApp. 2-е место на Хантатоне-2025. |
-| **[Lord of the Empire](https://github.com/coder-smookki/YandexSkill_Game_Lord_of_the_Empire)** | Игровой навык для Яндекс.Алисы. 1-е место на хакатоне Яндекса в 2024 году. |
+| **[Lord of the Empire](https://github.com/coder-smookki/YandexSkill_Game_Lord_of_the_Empire)** | Игровой навык для Яндекс.Алисы. 1-е место на хакатоне Яндекса в 2023 году. |
 
 ## 04 / На дистанции
 
@@ -83,7 +89,9 @@
 
 ## 05 / За пределами репозиториев
 
+- **Nuclear IT Hack 2026** - 1-е место, команда Mugsize, проект «Сквор».
 - **PRO СТРОЙ 4.0, 2026** - 1-е место в IT-направлении, Team Lead команды AIst.
+- **RLT.hack 2026** - 6-е место из 19, команда 404: Loss not found.
 - **AI Challenge** - диплом победителя международного хакатона по искусственному интеллекту.
 - **Хантатон** - 1-е место в 2024 году, 2-е место в 2025 году; наставник секции Junior с 2024 года.
 - **Яндекс** - победы в хакатонах по разработке навыков для Алисы.

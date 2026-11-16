@@ -7,7 +7,7 @@
 Saint Petersburg, Russia · +7 951 981-30-33<br />
 [smookki@yandex.ru](mailto:smookki@yandex.ru) · [Telegram: @smokkkkiiii](https://t.me/smokkkkiiii) · [GitHub: coder-smookki](https://github.com/coder-smookki)
 
-I build Python backends and mobile applications with Kotlin, Swift and Flutter. Co-founder of F-Rent, an item rental marketplace, with app releases on the App Store and RuStore. In 2026, I led the team that won first place in the IT track of PRO STROY 4.0. Founder of the Lumnex IT agency.
+I build Python backends and mobile applications with Kotlin, Swift and Flutter. Co-founder of F-Rent, an item rental marketplace, with app releases on the App Store and RuStore. In 2026, I led the team that won first place in the IT track of PRO STROY 4.0 and won first place at Nuclear IT Hack 2026. Founder of the Lumnex IT agency.
 
 ## Experience
 
@@ -77,9 +77,46 @@ I build Python backends and mobile applications with Kotlin, Swift and Flutter. 
 
 ## Hackathons and Case Competitions
 
+### Nuclear IT Hack 2026 / Developer / First Place
+
+**November 2026** · Team Mugsize · "Neuro-stenographer" case (Hex.team) · [GitHub](https://github.com/coder-smookki/NuclearItHack)
+
+- Built Skvor, an Android app that transcribes conversations entirely offline: the app has no `INTERNET` permission and all models ship inside the APK.
+- Speech recognition (GigaAM v3), speaker diarization, timestamps, a JSON file and a meeting summary from the on-device Qwen3-0.6B language model.
+- Measured: WER 7.01 on a Russian podcast, DER 10.07 on 49 labelled files; a 3-minute recording is processed in 88 seconds on a Snapdragon 662.
+
+**Stack:** Kotlin, Jetpack Compose, sherpa-onnx, GigaAM v3, Silero VAD, llama.cpp, Docker, GitHub Actions.
+
+### Cyber 102 / Team Lead / Developer
+
+**November 2026** · Ufa · Team AIst · KST ENERGO ENGINEERING case · [GitHub](https://github.com/coder-smookki/AIst-CyberHack102)
+
+- Built KST Vizor, an AR assistant for equipment inspectors: the unit is identified from its nameplate, and parts and external defects are highlighted over the live camera image alongside sensor readings and remaining life.
+- Three recognition models (YOLOv9-tiny, RF-DETR nano) run on the plant server's CPU without internet; on unseen photos, part detection precision is 95% with 0 false defects on 29 photos of healthy equipment.
+- 26 diagnostic rules using the client's thresholds, five roles with a security log, PDF and Excel reports, and a web panel with an assistant that runs commands only after confirmation; 552 automated server tests.
+
+**Stack:** Flutter, Python, FastAPI, ONNX Runtime, Next.js, Docker.
+
+### RLT.hack / Developer / 6th Place of 19
+
+**October 2026** · Roseltorg University · Team 404: Loss not found · [GitHub](https://github.com/coder-smookki/RLT.hack-404LossNotFound)
+
+- Built a supplier-matching web app for procurement: from two CSV files it ranks candidate suppliers for each lot, with per-item evidence, a confidence score and a company profile.
+- Hybrid retrieval with the nnPU35 ranker: NDCG@10 of 0.329 versus 0.261 for the baseline formula.
+
+**Stack:** Python, Django, PostgreSQL, React, TypeScript, Docker.
+
+### DomPulse / Frontend and Release
+
+**September 2026** · VK Education and MAX hackathon · [GitHub](https://github.com/coder-smookki/VkEducation-and-MessangerMax-Hackathon-2026)
+
+A Mini App and bot in the MAX messenger for residents' requests: work reports are linked to specific items of a request, and the author confirms the result. Responsible for the interface, MAX styling, builds and release.
+
+**Stack:** React, TypeScript, Java, Spring Boot, PostgreSQL, Python, FastAPI.
+
 ### PRO STROY 4.0 / Team Lead / First Place in the IT Track
 
-**August 2026** · Team AIst · Gazstroyprom · Saint Petersburg
+**August 2026** · Team AIst · Gazstroyprom · Saint Petersburg · [GitHub](https://github.com/coder-smookki/GSP-Project-AIst)
 
 - Built a corporate-regulation search system running on our own servers without external APIs.
 - Integrated a multi-agent graph with the interface, including streaming answers and displaying sources before the first token.
@@ -104,9 +141,9 @@ The assistant analyses sentiment in Telegram conversations, extracts tasks and d
 
 ### Games for Yandex Alice / Developer
 
-**2022 - 2024** · [Lord of the Empire on GitHub](https://github.com/coder-smookki/YandexSkill_Game_Lord_of_the_Empire)
+**2022 - 2023** · [Lord of the Empire on GitHub](https://github.com/coder-smookki/YandexSkill_Game_Lord_of_the_Empire)
 
-"Mafia War" won first place and the Grand Prix at the Yandex Textbook and Alice hackathon on 7 May 2022 (team SSD). "Lord of the Empire" won first place at a Yandex hackathon in 2024.
+"Mafia War" won first place and the Grand Prix at the Yandex Textbook and Alice hackathon on 7 May 2022 (team SSD). "Lord of the Empire" won first place at a Yandex hackathon in 2023.
 
 ### SSD QR Code and Link Checker / Developer / Third Place
 
@@ -126,6 +163,12 @@ Implemented URL and QR code checks using VirusTotal and custom XSS checks. Award
 **2026 - Present** · Open source · Apache-2.0 · [GitHub](https://github.com/Funora-Develop/Funora)
 
 Designing the specification and Python reference implementation. Shared contracts for models, events and errors; common test vectors across SDKs. A consistent model: `Client`, services, events, router and filters. Planned implementations include TS/JS, Java, .NET, C++ and C. The project is in the design stage; no package has been released yet.
+
+### Habit+ / Mini App and Bot in MAX
+
+**November 2025** · VK Education and MAX hackathon · [GitHub](https://github.com/coder-smookki/VkEducation-and-MessangerMax-Hackathon)
+
+Productivity as a game: a character grows with completed tasks, goals and Pomodoro sessions. Python, FastAPI, PostgreSQL, Redis, React.
 
 ### Ocean Wallet / Cryptocurrency Wallet with Payment Features
 
@@ -185,4 +228,4 @@ Theory and practical training in developing voice-assistant applications as part
 
 ---
 
-<sub>Updated 5 October 2026. Experience and results are based on the supplied CV; Funora's status was checked against its public repository.</sub>
+<sub>Updated 16 November 2026. Experience and results are based on the supplied CV; 2025-2026 hackathons were checked against their public repositories.</sub>
